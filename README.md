@@ -1,8 +1,7 @@
-Here’s a README file content template that covers what to install and how to run each part of the code:
 
 ---
 
-# Full Stack Developer Coding Test
+# Full Stack Developer Coding Test (FindMe)
 
 This project includes solutions for image processing, machine learning, backend API development, and augmented reality integration using Python. Follow the instructions below to set up and run each part of the project.
 
