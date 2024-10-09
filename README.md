@@ -104,4 +104,4 @@ Ensure you have the following installed:
 
 ### Author
 
-This code was developed as part of a Full Stack Developer Coding Test.
+Akhil Kumar Baitipuli
